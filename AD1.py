@@ -33,7 +33,7 @@ URLS = [
       "https://chartink.com/screener/copy-perfect-bearish-3537"
      ]
        
-sheet_id = "1aW4NWrIel2G1falbViLQFQRe-U_ErOTQArEm_nfHtbQ"
+sheet_id = "1xuRnWcVWF8_vAnluiio1Yyvq12O-kjileVFC90bn4NQ"
 worksheet_name = ["p1","p2","p3","p4","p5","p6","p7","p8","p9","p10","p11","p12","p13","p14","p15","p16","p17","p18","p19","p20","p21","p22","p23","p24","p25","p26"]
 
 def scrape_chartink(url, worksheet_name):
